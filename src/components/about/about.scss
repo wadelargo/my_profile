@@ -1,0 +1,43 @@
+.about {
+  .content {
+    h3 {
+      font-weight: 700;
+      font-size: 24px; // Slightly smaller font size
+      color: #137300; // A more subdued green color
+      margin-bottom: 15px; // Added margin for spacing
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+      font-style: italic; // Italicize the last paragraph for emphasis
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+
+      li {
+        margin-bottom: 15px; // Reduced margin for tighter spacing
+        display: flex;
+        align-items: center;
+        padding: 10px; // Added padding for better spacing
+        border: 1px solid #95ff9e; // Added border for visual separation
+        border-radius: 5px; // Rounded corners
+        background-color: #4ed4eb; // Light background color
+        box-shadow: 0 2px 4px rgba(98, 211, 46, 0.1); // Subtle shadow for depth
+      }
+
+      strong {
+        margin-right: 12px; // Slightly larger margin for better spacing
+        color: #4b7975; // Darker color for better readability
+      }
+
+      i {
+        font-size: 18px; // Slightly larger icon size
+        margin-right: 12px; // Adjusted margin for better spacing
+        color: #fc02c6; // Changed color to a warmer tone
+        line-height: 0;
+      }
+    }
+  }
+}

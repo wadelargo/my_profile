@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "19 Oct 1999" },
+    {
+      "website": "<a target='blank' href='http://localhost:5173'>http://wade-largo-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 913-185-4377" },
+    { "address": "Buenos Aires, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 24 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>wadelargo@outlook.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Buenos Aires, Tubigon, Bohol, Philippines",
+    "+63 913-185-4377",
+    "<a href='mailto:someone@example.com'>wadelargo@outlook.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. Information Technology",
+      "year": "2021 - 2025",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2015 - 2021",
+      "school": "Holy Cross Academy",
+      "address": "Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2008 - 2015",
+      "school": "Buenos Aires, Elementary School",
+      "address": "Buenos Aires, Tubigon, Bohol"
+    }
+  ]
+}

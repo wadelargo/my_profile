@@ -1,0 +1,38 @@
+{
+  "name": "John Meward L. Lanoy",
+  "major": "Information Technology (IT)",
+  "Expected Graduation": "2025",
+  "companies": [
+    {
+      "company": "Business Machine Corporation",
+      "title": "IT Support Assistant",
+      "duration": "April 2022 - August 2022",
+      "tasks": [
+        "Provided technical support to clients by troubleshooting and fixing hardware issues.",
+        "Installed and configured IT equipment, ensuring they met client specifications.",
+        "Educated customers on the effective usage of their equipment and resolved their technical queries."
+      ]
+    },
+    {
+      "company": "Accenture Philippines Inc.",
+      "title": "Software Engineering Intern",
+      "duration": "June 2023 - August 2023",
+      "tasks": [
+        "Assisted in developing web applications by contributing to front-end and back-end codebases.",
+        "Collaborated with senior developers to troubleshoot and debug issues in ongoing projects.",
+        "Participated in code reviews and gained insights into best practices for maintaining code quality.",
+        "Supported the team in implementing data visualization features using ReactJS and JavaScript."
+      ]
+    },
+    {
+      "company": "Academic Projects.",
+      "title": "Web-based Student Management System.",
+      "duration": "Lead Developer",
+      "tasks": [
+        "Designed and developed a web application to manage student records, grades, and class schedules.",
+        "Implemented the back-end using Laravel and integrated the front-end with ReactJS for a responsive user interface.",
+        "Managed a small team to ensure timely delivery and deployment of the project."
+      ]
+    }
+  ]
+}
